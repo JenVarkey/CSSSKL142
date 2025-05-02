@@ -15,7 +15,7 @@ public class Lab7 {
         // TODO: Call each of your methods
         capitalizeFirstLetters(input.nextLine());
 
-        System.out.println(getNameInitials("Jennifer Elizabeth Varkey")); //Should output J.E.V.
+        System.out.println(getNameInitials("Name OtherName LastName")); //Should output N. O. L.
         System.out.println(getLexLargest("The quick brown fox jumps over the lazy dog"));//should output "the"
         System.out.println(getLexLargest("I am the very model of a modern major general"));//should output "very"
 

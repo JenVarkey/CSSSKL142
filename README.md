@@ -1,2 +1,2 @@
-# CSS142
-This repository stores all of my homework from CSS 142 
+# CSSSKL 142
+This repository stores all of my homework from CSSSKL 142 
